@@ -32,7 +32,7 @@
       "thumbUrlWebp": "https://raw.githubusercontent.com/mvapplabs/mvapplabs.github.io/main/032-theme-widget/data/icons_downloads/bold_stylish_sub_1/cbn_afa_glass/thumbUrlWebp.webp",
       "imageUrl": "https://raw.githubusercontent.com/mvapplabs/mvapplabs.github.io/main/032-theme-widget/data/icons_downloads/bold_stylish_sub_1/cbn_afa_glass/content/imageUrl.webp",
       "packageUrl": "https://raw.githubusercontent.com/mvapplabs/mvapplabs.github.io/main/032-theme-widget/data/icons_downloads/bold_stylish_sub_1/cbn_afa_glass/package.zip",
-      "is_premium": false
+      "is_premium": true
     },
     {
       "categoryKey": "bold_stylish",
